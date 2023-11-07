@@ -38,7 +38,6 @@ $ python2 run.py assignment.py
 ### Functions & Methods
 -----------------------------
 ### Robot API
----------
 
 The API for controlling a simulated robot is designed to be as similar as possible to the [SR API][sr-api].
 
