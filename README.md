@@ -2,6 +2,12 @@
 
 In this assignment we should gather all tokens(6 tokens) together which using this code they all are
 gathered on the center.
+In figure 1 and figure 2 shows the environment of the program in the initial and the final frame.
+![](sr/the initial frame.png)
+> Fig.1) The configuration of the initial frame
+
+![](sr/the final frame.png)
+> Fig.2)The configuration of the final frame
 
 Python Robotics Simulator
 ================================
