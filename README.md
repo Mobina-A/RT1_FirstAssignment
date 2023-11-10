@@ -2,13 +2,18 @@
 
 In this assignment we should gather all tokens(6 tokens) together which using this code they all are
 gathered on the center.
-In figure 1 and figure 2 shows the environment of the program in the initial and the final frame.
+In Figures 1 and 2, the environment of the program is shown in the initial and final frames.
 
-![](sr/the initial frame.png)
-> Fig.1) The configuration of the initial frame
-
-![](sr/the final frame.png)
-> Fig.2)The configuration of the final frame
+<p align="center">
+    <img src="robot-sim/sr/the%20initial%20frame.png?raw=true" alt="Fig.1: The configuration of the initial frame" width="250" style="display:inline-block; margin: 0 10px;" />
+    <br />
+    <strong>Fig.1:</strong> The configuration of the initial frame
+</p>
+<p align="center">
+    <img src="robot-sim/sr/the%20final%20frame.png?raw=true" alt="Fig.2: The configuration of the final frame" width="250" style="display:inline-block; margin: 0 10px;" />
+    <br />
+    <strong>Fig.2:</strong> The configuration of the final frame
+</p>
 
 Python Robotics Simulator
 ================================
@@ -129,7 +134,7 @@ print('token codes:',List_of_token_code)
 ```
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
 
-### Code
+### Coding
 -----------------------------
 The code consists of four functions:
 * drive(speed, seconds)
