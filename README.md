@@ -39,6 +39,7 @@ $ python2 run.py assignment.py
 ```
 
 ### Troubleshooting
+-----------------------
 
 When running `python run.py <file>`, you may be presented with an error: `ImportError: No module named 'robot'`. This may be due to a conflict between sr.tools and sr.robot. To resolve, symlink simulator/sr/robot to the location of sr.tools.
 
