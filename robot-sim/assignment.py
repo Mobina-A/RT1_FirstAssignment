@@ -40,12 +40,10 @@ def turn(speed, seconds):
     R.motors[0].m1.power = 0
 
 def find():
-
-	"""
-	Function for detecting tokens and storing their information
-	"""
-   
-    Golden_tokens_initial = [] #create an empty list to store marker_data of all tokens
+    """
+    Function for detecting tokens and storing their information
+    """
+    Golden_tokens_initial = []  # create an empty list to store marker_data of all tokens
 
     dist = 100
     for token in R.see():
@@ -54,13 +52,13 @@ def find():
         rot_y = token.rot_y
         marker_data = [dist, rot_y]  # Create a list for each token
 
-        Golden_tokens_initial.append(marker_data)  #adding marker_data of each token to 'Golden_tokens_initial' list
+        Golden_tokens_initial.append(marker_data)  # adding marker_data of each token to 'Golden_tokens_initial' list
 
     Golden_tokens = sorted(Golden_tokens_initial, key=lambda x: x[0])  # Sort the list of Golden_tokens_initial according to dist of tokens
     if Golden_tokens[0][0] < 100:
         return Golden_tokens
     else:
-        return None 
+        return None
 
 
 def grab_and_release(t_1,t_2,t_3):
