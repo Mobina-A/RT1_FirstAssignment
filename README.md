@@ -18,7 +18,7 @@ In Figures 1 and 2, the environment of the program is shown in the initial and f
 The flowchart, providing a visual representation of the process, is shown in Figure 3.
 
 <p align="center">
-  <img src="robot-sim/sr/Flowchart.png?raw=true" alt="Fig.3: Flowchart" width="1000" style="display:inline-block; margin: 0 10px;" />
+  <img src="robot-sim/sr/FlowChart.png?raw=true" alt="Fig.3: Flowchart" width="1000" style="display:inline-block; margin: 0 10px;" />
   <br />
   <strong>Fig.3:</strong> Flowchart
 </p>
