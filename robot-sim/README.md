@@ -5,12 +5,12 @@ gathered on the center.
 In Figures 1 and 2, the environment of the program is shown in the initial and final frames.
 
 <p align="center">
-    <img src="robot-sim/sr/the%20initial%20frame.png?raw=true" alt="Fig.1: The configuration of the initial frame" width="250" style="display:inline-block; margin: 0 10px;" />
+    <img src="sr/the%20initial%20frame.png?raw=true" alt="Fig.1: The configuration of the initial frame" width="250" style="display:inline-block; margin: 0 10px;" />
     <br />
     <strong>Fig.1:</strong> The configuration of the initial frame
 </p>
 <p align="center">
-    <img src="robot-sim/sr/the%20final%20frame.png?raw=true" alt="Fig.2: The configuration of the final frame" width="250" style="display:inline-block; margin: 0 10px;" />
+    <img src="sr/the%20final%20frame.png?raw=true" alt="Fig.2: The configuration of the final frame" width="250" style="display:inline-block; margin: 0 10px;" />
     <br />
     <strong>Fig.2:</strong> The configuration of the final frame
 </p>
@@ -18,7 +18,7 @@ In Figures 1 and 2, the environment of the program is shown in the initial and f
 The flowchart, providing a visual representation of the process, is shown in Figure 3.
 
 <p align="center">
-  <img src="robot-sim/sr/FlowChart.png?raw=true" alt="Fig.3: Flowchart" width="1000" style="display:inline-block; margin: 0 10px;" />
+  <img src="sr/FlowChart.png?raw=true" alt="Fig.3: Flowchart" width="1000" style="display:inline-block; margin: 0 10px;" />
   <br />
   <strong>Fig.3:</strong> Flowchart
 </p>
